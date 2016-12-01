@@ -1,0 +1,4 @@
+<map id="ReaclibRate::GetReducedMass" name="ReaclibRate::GetReducedMass">
+<area shape="rect" id="node2" href="$class_reaclib_rate.html#a30700c4bfe13795d63a8f73f3ecae2e7" title="Returns the S&#45;factor, S(0), determined from the fit parameters. " alt="" coords="270,5,439,32"/>
+<area shape="rect" id="node3" href="$class_reaclib_rate.html#aca9ca1848aea24b61eb339f456cecf6d" title="Returns the resonance strength of the specified resonance set. " alt="" coords="260,57,449,98"/>
+</map>

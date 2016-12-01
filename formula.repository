@@ -1,0 +1,16 @@
+\form#0:\[ -4.2486 (Z_1^2 Z_2^2 \mu)^{1/3} \]
+\form#1:$ Z_1 $
+\form#2:$ Z_2 $
+\form#3:$ \mu $
+\form#4:\[ ln[B (Z_1 Z_2 \mu)^{1/3} S(0)] \]
+\form#5:$ B = 7.8318 \times 10^9 cm^3 s^{-1} mole^{-1} MeV^{-1} $
+\form#6:$ S(0) $
+\form#7:\[ ln[D \mu^{-3/2} \omega\gamma] \]
+\form#8:$ D = 1.5394 \times 10^{11} cm^3 s^{-1} mole^{-1} MeV^{-1} $
+\form#9:$ \omega \gamma $
+\form#10:\[ -11.6045 E_r \]
+\form#11:$ E_r $
+\form#12:\[ \sum_{n}exp\left[ a_{n,0} +\sum_{i=1}^5 a_{n,i} T_9^{2i-5/3} + a_{n,6} \ln T_9 \right] \]
+\form#13:$ n $
+\form#14:$ cm^3 s^{-1} mole^{-1} MeV^{-1} barn^{-1} $
+\form#15:$ cm^3 s^{-1} mole^{-1} MeV^{-1} $
